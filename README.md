@@ -1,4 +1,4 @@
-# Sample Signal App
+# Test Signal App
 
 This repository is a sample app (server & client) that uses `libsignal` to encrypt messages
 The code is just a PoC and should be treated as such.
